@@ -8,3 +8,5 @@ Files:
 
 
 !Errors in Untitled2.ipynb, keras tuner section are caused by me stopping it at 10th trial
+
+Index: 20191
