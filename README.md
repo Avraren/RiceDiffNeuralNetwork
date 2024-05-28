@@ -1,2 +1,8 @@
 # RiceDiffNeuralNetwork
-Rice Diff Neural Network 
+
+
+Files:
+
+- Untitled2.ipynb - code for model training
+- Untitled3.ipynb  - code for using created model for validation with custom images
+- my_dir - folder with output from Keras Tuner
