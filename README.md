@@ -9,4 +9,6 @@ Files:
 
 !Errors in Untitled2.ipynb, keras tuner section are caused by me stopping it at 10th trial
 
+Dataset: https://www.kaggle.com/datasets/muratkokludataset/rice-image-dataset
+
 Index: 20191
